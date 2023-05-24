@@ -1,4 +1,4 @@
-# Number-Plate-Recognition-using-EasyOCR
+# Number-Plate-Extraction-using-EasyOCR
 
 In this computer vision project, I focus on detecting and printing the number plate of a car from images provided by the user. I use various python libraries such as OpenCV for image processing, easyOCR for text recognition, and imutils for contour detection.
 
