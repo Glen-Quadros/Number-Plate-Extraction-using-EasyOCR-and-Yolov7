@@ -1,4 +1,0 @@
-streamlit==1.14.0
-easyocr==1.7.0
-opencv-python==4.5.4
-numpy==1.23.3
