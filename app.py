@@ -1,3 +1,6 @@
+import sys
+sys.path.append('/usr/local/Cellar/opencv@4/4.5.4/lib/python3.9/site-packages')
+
 import streamlit as st
 import easyocr
 import xml.etree.ElementTree as ET
