@@ -1,5 +1,5 @@
-import sys
-sys.path.append('/usr/local/Cellar/opencv@4/4.5.4/lib/python3.9/site-packages')
+import os
+os.environ['DYLD_FALLBACK_LIBRARY_PATH'] = '/usr/local/lib'
 
 import streamlit as st
 import easyocr
