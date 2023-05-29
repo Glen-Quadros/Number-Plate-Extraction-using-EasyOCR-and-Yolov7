@@ -10,6 +10,8 @@ Once the number plate is extracted, I utilize easyOCR to read the text on the pl
 
 I have built the web application for this project using Streamlit Python library. The user uploads an image as the input and in the backend, image processing is done and then the number plate of the car in text format is given as the output.
 
+You can also find the Django API code for the above project.
+
 <img width="1440" alt="Screenshot 2023-05-24 at 14 18 28" src="https://github.com/Glen-Quadros/Number-Plate-Recognition-using-EasyOCR/assets/106950467/e7d64599-aea0-4bfa-8360-26a0da993f68">
 
 <img width="1440" alt="Screenshot 2023-05-24 at 14 20 53" src="https://github.com/Glen-Quadros/Number-Plate-Recognition-using-EasyOCR/assets/106950467/b172d597-cb28-40a4-83cf-e1dc88a3f026">
